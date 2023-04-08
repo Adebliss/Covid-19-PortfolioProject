@@ -47,4 +47,4 @@ Once I finished with the analysis, I saved the tables as CSV files (this is beca
 
 # Reference
 
-[Youtub](https://youtu.be/qfyynHBFOsM)
+[Youtube](https://youtu.be/qfyynHBFOsM)
